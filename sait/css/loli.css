@@ -1,2 +1,13 @@
-lupa
-
+body, html {
+    height: 100%;
+}
+.frame1 {
+    background-image: url(../img/line.png);
+    background-position: center;
+    text-align: center;
+    position: absolute;
+    width: 1300px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+}
